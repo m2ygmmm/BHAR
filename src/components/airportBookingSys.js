@@ -158,8 +158,8 @@ function AirportBookingSys({ setAirportData }) {
                         onChange={handleDirectionSelect}
                         className="w-full bg-gray-100 border-gray-300 rounded-md"
                     >
-                        <option value="Departing">Departing from</option>
-                        <option value="Arriving">Arriving to</option>
+                        <option value="Departing from">Departing from</option>
+                        <option value="Arriving to">Arriving to</option>
                     </Select>
                 </div>
 
